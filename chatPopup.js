@@ -215,7 +215,7 @@
 
   closeIcon.classList.add("fa-solid", "fa-xmark")
 
-  mainDiv.innerHTML='<i style="cursor:pointer" class="fa-solid fa-xmark icon-cls"></i>';
+  mainDiv.innerHTML='<i style="cursor:pointer; font-size:20px; color:blue" class="fa-solid fa-xmark icon-cls"></i>';
 
 
 }
